@@ -36,7 +36,8 @@ hs_err_pid*
 # others
 *.html
 *.eps
-*/build/*
-algsFossi/Java Algorithms and Clients_files/*
+build
+Java Algorithms and Clients_files
+backdir
 
 
